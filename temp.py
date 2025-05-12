@@ -1,0 +1,186 @@
+import webbrowser
+
+f = open('helloworld.html','w',encoding='utf-8')
+name='anirudh'
+date='17-10-2021'
+prevdate='17-11-2020'
+
+
+message = f"""<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}}
+@font-face
+	{{font-family:Gautami;
+	panose-1:2 0 5 0 0 0 0 0 0 0;}}
+@font-face
+	{{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}}
+@font-face
+	{{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}}
+@font-face
+	{{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}}
+@font-face
+	{{font-family:Peddana;}}
+@font-face
+	{{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}}
+@font-face
+	{{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}}
+.MsoChpDefault
+	{{font-family:"Calibri",sans-serif;}}
+.MsoPapDefault
+	{{margin-bottom:10.0pt;
+	line-height:115%;}}
+@page WordSection1
+	{{size:8.5in 11.0in;
+	margin:.9in 1.0in 1.0in .6in;}}
+div.WordSection1
+	{{page:WordSection1;}}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal><span lang=TE style='font-size:12.0pt;line-height:115%;
+font-family:Peddana'>సేవ </span><span style='font-size:12.0pt;line-height:115%;
+font-family:Peddana'>                                                                                                 <span
+lang=TE>సంస్కారము   </span>                                                                                                           </span></p>
+
+<div style='border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 1.0pt 0in'>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+line-height:normal;border:none;padding:0in'><span lang=TE style='font-size:
+16.0pt;font-family:Peddana'>కరుణశ్రీ సేవ సమితి</span></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+line-height:normal;border:none;padding:0in'><span lang=TE style='font-size:
+12.0pt;font-family:Peddana'>రిజిస్టర్డ్ నం : </span><span style='font-size:
+12.0pt;font-family:Peddana'>7451/1999</span></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+line-height:normal;border:none;padding:0in'><span lang=TE style='font-size:
+12.0pt;font-family:Peddana'>కారుణ్య సింధు (అరక్షిత బాలుర ఆశ్రమము )</span></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+line-height:normal;border:none;padding:0in'><span lang=TE style='font-size:
+12.0pt;font-family:Peddana'>విశ్వహిందూ పరిషత్ సేవ ప్రకల్పము</span></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+line-height:normal;border:none;padding:0in'><span style='font-size:12.0pt;
+font-family:Peddana'>17-1-474, <span lang=TE>కృష్ణానగర్ కాలనీ</span>, <span
+lang=TE>సైదాబాద్</span>, <span lang=TE>హైదరాబాద్ -</span>500 059, <span
+lang=TE>దూరవాణి: </span>040-24073204, 9000889785</span></p>
+
+</div>
+
+<p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span lang=TE
+style='font-size:12.0pt;font-family:Peddana'>ఆచార్య కడారి సత్యమూర్తి </span><span
+style='font-size:12.0pt;font-family:Peddana'>                        <span
+lang=TE>పుప్పాల వెంకటేశ్వర రావు  </span>            <span lang=TE>రాజాపేట
+సత్యనారాయణ </span></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+style='font-size:12.0pt;font-family:Peddana'>         <span lang=TE>అధ్యక్షులు     
+</span>                                     <span lang=TE> కార్యదర్శి     </span>                         <span
+lang=TE>    కోశాధికారి  </span></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+style='font-size:14.0pt;font-family:Peddana'>     9849320610                              
+7386247393                             8555800196</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:4.0in;text-indent:.5in'><span lang=TE style='font-size:12.0pt;
+line-height:115%;font-family:Peddana'>తేదీ:</span><span style='font-size:12.0pt;
+line-height:115%;font-family:Peddana'>{date}</span></p>
+
+<p class=MsoNormal><span lang=TE style='font-size:12.0pt;line-height:115%;
+font-family:Peddana'> శ్రీమతి / శ్రీ </span><span style='font-size:12.0pt;
+line-height:115%;font-family:Peddana'>M /S
+{name}     <span lang=TE>గారికి  సప్రేమ
+నమస్కారములు</span>.<span lang=TE>    </span></span></p>
+
+<p class=MsoNormal><span lang=TE style='font-size:12.0pt;line-height:115%;
+font-family:Peddana'>మీరు సహృదయముతో మా ఆశ్రమ బాలల సంరక్షణార్థం మీ ఆత్మీయుల జన్మదిన/స్మృతిదిన
+జ్ఞాపకార్థం గత సంవత్సరము తేదీ  </span><span style='font-size:12.0pt;line-height:
+115%;font-family:Peddana'>{prevdate}<span lang=TE> నాడు అన్నదాన కార్యక్రమము
+ఏర్పాటు చేసినారు. ధన్యవాదములు</span>, <span lang=TE>ఈ సంవత్సరము కూడా మీ తరపున
+అన్నదానము చేయుటకు సమ్మతి తెలియచేయగలరని ప్రార్థిస్తున్నాము. </span></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:1.0in;text-indent:.5in;line-height:normal'><span lang=TE
+style='font-size:12.0pt;font-family:Peddana'>ఒక రోజు భోజనము  రూ. 2,000/-</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:1.0in;text-indent:.5in;line-height:normal'><span lang=TE
+style='font-size:12.0pt;font-family:Peddana'>శాశ్వత అన్నదాన నిధి  రూ. 10,000/-</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:.5in;text-indent:.5in;line-height:normal'><span lang=TE
+style='font-size:12.0pt;font-family:Peddana'>( సంవత్సరములో మీరు ఎంచుకున్న ఒక్క
+రోజు 10 సంవత్సరాల వరకు )</span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:1.0in;text-indent:.5in;line-height:normal'><span lang=TE
+style='font-size:12.0pt;font-family:Peddana'> విద్యార్ధి సంరక్షణ  నిధి  రూ. 25</span><span
+style='font-size:12.0pt;font-family:Peddana'>,<span lang=TE>000/-</span></span></p>
+
+<p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
+margin-left:1.0in;text-indent:.5in;line-height:normal'><span lang=TE
+style='font-size:12.0pt;font-family:Peddana'>చెక్కులు /డి.డి.లు &quot; </span><span
+style='font-size:12.0pt;font-family:Peddana'>Karunasri Seva Samithi <span
+lang=TE> &quot; పేరున వ్రాయవలెను... </span></span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+style='font-size:12.0pt;font-family:Peddana'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+style='font-size:12.0pt;font-family:Peddana'>                                                    
+<span lang=TE>ధన్యవాదములతో.</span></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+Peddana'>                                                                                                                                    <span
+lang=TE>ఇట్లు</span></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+Peddana'>                                                                                                       <span
+lang=TE>కరుణశ్రీ సేవ సమితి</span></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:115%;font-family:
+Peddana'>&nbsp;</span></p>
+
+<p class=MsoNormal><span lang=TE style='font-size:12.0pt;line-height:115%;
+font-family:"Arial Unicode MS",sans-serif'>&nbsp;</span></p>
+
+</div>
+
+</body>
+
+</html>"""
+f.write(message)
+f.close()
+#formatted = jinja2.Template(message).render(products=helloworld)
+webbrowser.open_new_tab('helloworld.html')
